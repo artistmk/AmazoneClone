@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_account">Create Account&#160;&#160; </string>
+    <string name="new_to_amazon">  New to Amazon?</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="already_a_customer">  Already a customer?</string>
+    <string name="sign_in_text">Sign-in.&#160;&#160;</string>
+    <string name="sign_up_text">Sign UP</string>
+
+
+</resources>
